@@ -34,9 +34,9 @@ export function Photography() {
 
       <div className="section-container">
         <SectionHeader
-          eyebrow="Through My Lens"
+          eyebrow="Through My Mobile's Lens"
           title={<>Photography</>}
-          subtitle="When I step away from the keyboard, I pick up my camera. Here's what I see."
+          subtitle="When I step away from the keyboard, I pick up my Mobile. Here's what I see."
           align="center"
         />
 
