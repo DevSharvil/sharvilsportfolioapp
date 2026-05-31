@@ -11,7 +11,7 @@ const STATS = [
 ]
 
 const RESUME_HIGHLIGHTS = [
-  { section: 'Experience', items: ['React.js Frontend Developer @ SLK Softwares IT Org (2022–Present)', 'Frontend Developer Intern (2021–2022)'] },
+  { section: 'Experience', items: ['React.js Frontend Developer @ SLK Softwares IT Org (2022–Present)', ] },
   { section: 'Education', items: ['BCS'] },
   { section: 'Certifications', items: ['React.js Certification — Udemy', 'JavaScript Advanced — LinkedIn Learning'] },
 ]
